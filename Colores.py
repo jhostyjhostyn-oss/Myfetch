@@ -9,3 +9,11 @@ BLANCO = "\033[37m"
 NEGRITA = "\033[1m"
 RESET = "\033[0m"
 NARANJA ="\033[38;5;208m"
+
+colores = [
+    ROJO,
+    VERDE,
+    AZUL,
+    MAGENTA,
+    CIAN
+]
